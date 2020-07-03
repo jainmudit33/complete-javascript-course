@@ -50,7 +50,7 @@ else{
 }
 }
 function check(m){
-    if(m>20){
+    if(m>200){
         return true;
     }
     else{
